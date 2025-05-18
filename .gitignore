@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# JetBrains
+.idea
+*.iml
+
 # Compiled Object files
 *.slo
 *.lo
