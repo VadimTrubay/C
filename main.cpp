@@ -1,13 +1,15 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-
-    const auto lang = "C++";
-    std::cout << "Hello and welcome to " << lang << "!\n";
-
-    for (int i = 1; i <= 5; i++) {
-        std::cout << "i = " << i << std::endl;
+    for (int a = 0; a < 10; a++) {
+        cout << a << endl;
     }
-
-    return 0;
 }
+
+
+
+
+
+
